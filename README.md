@@ -21,11 +21,6 @@ Designed to enhance aviation safety, PathFinderX offers a scalable and cost-effe
   - Accurate location estimation during GPS disruptions
   - Robust predictive algorithms
 
-- **Future Roadmap**
-  - Implement Ensemble model for overall improvements
-  - Dead Reckoning implementation to predict with a higher accuracy
-  - Deep learning implementation for a deeper understanding of the historical data relating to weather patterns and other latent features
-
 ## ❗ Prerequisites
 
 - Python 3.X.X
@@ -70,7 +65,10 @@ python dataset.py
 
 
 
-## 🌐 Deployment Options
+## 🌐 Future Enhancements
+  - Implement Ensemble model for overall improvements
+  - Dead Reckoning implementation to predict with a higher accuracy
+  - Deep learning implementation for a deeper understanding of the historical data relating to weather patterns and other latent features
 
 ## ✨ Contributors
 
@@ -83,7 +81,7 @@ Contributions are always welcome! Please check our [Contributing Guidelines](/CO
 ## 📧 Contact
 
 For more information, collaborations, or inquiries:
-- Email: [project_contact@example.com](mailto:for.tejaspatil@gmail.com)
+- Email: [for.tejaspatil@gmail.com](mailto:for.tejaspatil@gmail.com)
 - Project Link: [GitHub - PathFinderX](https://github.com/tejas2510/PathFinderX)
 
 ---
