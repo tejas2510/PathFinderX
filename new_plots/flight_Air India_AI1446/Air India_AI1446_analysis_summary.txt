@@ -1,0 +1,66 @@
+Flight Air India_AI1446 Analysis Summary
+==================================================
+
+Outage Duration: 486 seconds
+
+Average Performance Metrics:
+------------------------------
+              MAE        RMSE        R2
+Model                                  
+LGBM   208.956539  283.204486  0.987070
+RF     253.540170  340.070320  0.982905
+XGB    265.825905  344.568493  0.981124
+
+Detailed Analysis:
+------------------------------
+
+RF Model Performance:
+
+latitude:
+  MAE: 0.005331
+  RMSE: 0.006019
+  R2: 0.997364
+
+longitude:
+  MAE: 0.014100
+  RMSE: 0.015924
+  R2: 0.997420
+
+altitude:
+  MAE: 760.601078
+  RMSE: 1020.189016
+  R2: 0.953932
+
+XGB Model Performance:
+
+latitude:
+  MAE: 0.006736
+  RMSE: 0.008010
+  R2: 0.995332
+
+longitude:
+  MAE: 0.018011
+  RMSE: 0.021417
+  R2: 0.995333
+
+altitude:
+  MAE: 797.452969
+  RMSE: 1033.676051
+  R2: 0.952706
+
+LGBM Model Performance:
+
+latitude:
+  MAE: 0.005797
+  RMSE: 0.006856
+  R2: 0.996580
+
+longitude:
+  MAE: 0.015503
+  RMSE: 0.018334
+  R2: 0.996580
+
+altitude:
+  MAE: 626.848316
+  RMSE: 849.588268
+  R2: 0.968051

@@ -1,0 +1,66 @@
+Flight Vistara_UK1999 Analysis Summary
+==================================================
+
+Outage Duration: 599 seconds
+
+Average Performance Metrics:
+------------------------------
+             MAE       RMSE        R2
+Model                                
+LGBM   25.077048  30.351898  0.166760
+RF     17.233808  20.050734  0.636572
+XGB    17.788168  20.564827  0.615624
+
+Detailed Analysis:
+------------------------------
+
+RF Model Performance:
+
+latitude:
+  MAE: 0.001301
+  RMSE: 0.001686
+  R2: 0.999867
+
+longitude:
+  MAE: 0.003493
+  RMSE: 0.004361
+  R2: 0.999875
+
+altitude:
+  MAE: 51.696629
+  RMSE: 60.146156
+  R2: -0.090026
+
+XGB Model Performance:
+
+latitude:
+  MAE: 0.007669
+  RMSE: 0.008935
+  R2: 0.996260
+
+longitude:
+  MAE: 0.020507
+  RMSE: 0.023893
+  R2: 0.996260
+
+altitude:
+  MAE: 53.336328
+  RMSE: 61.661655
+  R2: -0.145649
+
+LGBM Model Performance:
+
+latitude:
+  MAE: 0.004336
+  RMSE: 0.005183
+  R2: 0.998742
+
+longitude:
+  MAE: 0.011595
+  RMSE: 0.013860
+  R2: 0.998742
+
+altitude:
+  MAE: 75.215214
+  RMSE: 91.036652
+  R2: -1.497203
