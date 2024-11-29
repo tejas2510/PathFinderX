@@ -1,0 +1,66 @@
+Flight GoAir_G88856 Analysis Summary
+==================================================
+
+Outage Duration: 500 seconds
+
+Average Performance Metrics:
+------------------------------
+              MAE        RMSE        R2
+Model                                  
+LGBM   387.298399  467.513345  0.959113
+RF     337.619587  423.520115  0.970325
+XGB    343.710618  452.820045  0.959480
+
+Detailed Analysis:
+------------------------------
+
+RF Model Performance:
+
+latitude:
+  MAE: 0.019213
+  RMSE: 0.024271
+  R2: 0.971975
+
+longitude:
+  MAE: 0.051896
+  RMSE: 0.065282
+  R2: 0.971649
+
+altitude:
+  MAE: 1012.787653
+  RMSE: 1270.470790
+  R2: 0.967352
+
+XGB Model Performance:
+
+latitude:
+  MAE: 0.023425
+  RMSE: 0.029755
+  R2: 0.957880
+
+longitude:
+  MAE: 0.062644
+  RMSE: 0.079570
+  R2: 0.957880
+
+altitude:
+  MAE: 1031.045786
+  RMSE: 1358.350811
+  R2: 0.962680
+
+LGBM Model Performance:
+
+latitude:
+  MAE: 0.023604
+  RMSE: 0.029514
+  R2: 0.958560
+
+longitude:
+  MAE: 0.063122
+  RMSE: 0.078925
+  R2: 0.958560
+
+altitude:
+  MAE: 1161.808471
+  RMSE: 1402.431594
+  R2: 0.960218

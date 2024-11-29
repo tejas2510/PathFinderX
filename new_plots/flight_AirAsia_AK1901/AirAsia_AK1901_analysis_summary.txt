@@ -1,0 +1,66 @@
+Flight AirAsia_AK1901 Analysis Summary
+==================================================
+
+Outage Duration: 526 seconds
+
+Average Performance Metrics:
+------------------------------
+              MAE        RMSE        R2
+Model                                  
+LGBM   607.710443  708.193030  0.925295
+RF     578.229113  677.439523  0.938695
+XGB    630.054801  726.306819  0.927167
+
+Detailed Analysis:
+------------------------------
+
+RF Model Performance:
+
+latitude:
+  MAE: 0.029591
+  RMSE: 0.034391
+  R2: 0.950370
+
+longitude:
+  MAE: 0.079088
+  RMSE: 0.091925
+  R2: 0.950417
+
+altitude:
+  MAE: 1734.578660
+  RMSE: 2032.192252
+  R2: 0.915298
+
+XGB Model Performance:
+
+latitude:
+  MAE: 0.032686
+  RMSE: 0.037993
+  R2: 0.939432
+
+longitude:
+  MAE: 0.087410
+  RMSE: 0.101600
+  R2: 0.939431
+
+altitude:
+  MAE: 1890.044307
+  RMSE: 2178.780865
+  R2: 0.902637
+
+LGBM Model Performance:
+
+latitude:
+  MAE: 0.034522
+  RMSE: 0.039592
+  R2: 0.934225
+
+longitude:
+  MAE: 0.092317
+  RMSE: 0.105875
+  R2: 0.934225
+
+altitude:
+  MAE: 1823.004491
+  RMSE: 2124.433622
+  R2: 0.907434

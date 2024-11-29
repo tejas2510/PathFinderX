@@ -1,0 +1,66 @@
+Flight GoAir_G89059 Analysis Summary
+==================================================
+
+Outage Duration: 524 seconds
+
+Average Performance Metrics:
+------------------------------
+               MAE         RMSE        R2
+Model                                    
+LGBM   1154.049275  1690.289622 -0.888553
+RF     1094.021184  1590.193747 -2.926981
+XGB    1154.202392  1697.067813 -0.892307
+
+Detailed Analysis:
+------------------------------
+
+RF Model Performance:
+
+latitude:
+  MAE: 0.180344
+  RMSE: 0.199580
+  R2: -3.319313
+
+longitude:
+  MAE: 0.601352
+  RMSE: 0.658169
+  R2: -4.827655
+
+altitude:
+  MAE: 3281.281856
+  RMSE: 4769.723491
+  R2: -0.633974
+
+XGB Model Performance:
+
+latitude:
+  MAE: 0.090597
+  RMSE: 0.132732
+  R2: -0.910433
+
+longitude:
+  MAE: 0.256885
+  RMSE: 0.376323
+  R2: -0.905203
+
+altitude:
+  MAE: 3462.259693
+  RMSE: 5090.694384
+  R2: -0.861285
+
+LGBM Model Performance:
+
+latitude:
+  MAE: 0.091897
+  RMSE: 0.132672
+  R2: -0.908715
+
+longitude:
+  MAE: 0.261242
+  RMSE: 0.376846
+  R2: -0.910500
+
+altitude:
+  MAE: 3461.794687
+  RMSE: 5070.359349
+  R2: -0.846444
