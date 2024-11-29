@@ -56,7 +56,7 @@ python dataset.py
 ## 📊 Performance Visualization
 <img src="https://github.com/tejas2510/PathFinderX/blob/master/new_plots/flight_Air%20India_AI1446/Air%20India_AI1446_alt_prediction.png?raw=true" height="375">
 <img src="https://github.com/tejas2510/PathFinderX/blob/master/new_plots/flight_Air%20India_AI1446/Air%20India_AI1446_lat_prediction.png?raw=true" height="375">
-<img src="https://github.com/tejas2510/PathFinderX/blob/master/assets/Screenshot%20from%202024-11-29%2016-34-27.png?raw=true" width="600">
+<img src="https://github.com/tejas2510/PathFinderX/blob/master/assets/Screenshot%20from%202024-11-29%2016-34-27.png?raw=true">
 
 ## 📈 Model Performance Screenshots
 <img src="https://github.com/tejas2510/PathFinderX/blob/master/new_plots/flight_Air%20India_AI1446/Air%20India_AI1446_mae_comparison.png?raw=true" height="375">
