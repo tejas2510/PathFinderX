@@ -53,8 +53,8 @@ python dataset.py
 
 ## 🚀 Quick Start
 
-1.  `dataset.py` - Prepare your flight data - Set parameters like Departure, Arrival Airports, No of flights for training data etc.
-2. `PathFinderX.ipynb` - Configure model parameters - Outage Duration, Animation Duration, Model Hyperparameters.
+1.  `dataset.py` - Prepare your flight data, Set parameters like Departure, Arrival Airports, No of flights for training data etc.
+2. `PathFinderX.ipynb` - Configure model parameters, Outage Duration, Animation Duration, Model Hyperparameters.
 3. Run prediction script
 4. Analyze results
 
@@ -65,6 +65,9 @@ python dataset.py
 <img src="https://github.com/tejas2510/PathFinderX/blob/master/assets/Screenshot%20from%202024-11-29%2016-10-31.png?raw=true" width="600" height="375">
 
 ## 📈 Model Performance Screenshots
+<img src="https://github.com/tejas2510/PathFinderX/blob/master/new_plots/flight_Air%20India_AI1446/Air%20India_AI1446_mae_comparison.png?raw=true" height="375">
+<img src="https://github.com/tejas2510/PathFinderX/blob/master/new_plots/flight_Air%20India_AI1446/Air%20India_AI1446_r2_comparison.png?raw=true" height="375">
+<img src="https://github.com/tejas2510/PathFinderX/blob/master/new_plots/flight_Air%20India_AI1446/Air%20India_AI1446_rmse_comparison.png?raw=true" height="375">
 
 
 
