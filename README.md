@@ -52,7 +52,7 @@ python dataset.py
 2. `PathFinderX.ipynb` - Configure model parameters, Outage Duration, Animation Duration, Model Hyperparameters.
 3. Run prediction script
 4. Analyze results
-5. 
+   
 ## 💻 Real-Time Simulation during Outage
 <img src="https://github.com/tejas2510/PathFinderX/blob/master/assets/simulation.gif?raw=true">
 
