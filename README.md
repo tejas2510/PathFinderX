@@ -1,4 +1,4 @@
-<p align="center">🛩️ PathFinderX 🌍</p>
+# <p align="center">🛩️ PathFinderX 🌍</p>
 
 ## 🌎 Overview
 
