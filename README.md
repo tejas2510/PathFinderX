@@ -66,8 +66,8 @@ python dataset.py
 
 
 ## 🌐 Future Enhancements
-  - Implement Ensemble model for overall improvements
-  - Dead Reckoning implementation to predict with a higher accuracy
+  - Implement ensemble models for overall improvements
+  - Implement Dead Reckoning to predict with a higher accuracy
   - Deep learning implementation for a deeper understanding of the historical data relating to weather patterns and other latent features
 
 ## ✨ Contributors
