@@ -85,7 +85,7 @@ Contributions are always welcome! Please check our [Contributing Guidelines](/CO
 
 For more information, collaborations, or inquiries:
 - Email: [for.tejaspatil@gmail.com](mailto:for.tejaspatil@gmail.com)
-- Discord: klayjensen
+- Discord: #klayjensen
 - Project Link: [GitHub - PathFinderX](https://github.com/tejas2510/PathFinderX)
 
 ---
