@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/59601317-141b-424b-84e6-206248508e0c)# <p align="center">🛩️ PathFinderX 🌍</p>
+<p align="center">🛩️ PathFinderX 🌍</p>
 
 ## 🌎 Overview
 
@@ -59,9 +59,8 @@ python dataset.py
 4. Analyze results
 
 ## 📊 Performance Visualization
-<img src="" width="600" height="375">
-<img src="https://github.com/tejas2510/PathFinderX/blob/master/new_plots/flight_Air%20India_AI1446/Air%20India_AI1446_alt_prediction.png" width="600" height="375">
-<img src="https://github.com/tejas2510/PathFinderX/blob/master/new_plots/flight_Air%20India_AI1446/Air%20India_AI1446_lat_prediction.png" width="600" height="375">
+<img src="https://github.com/tejas2510/PathFinderX/blob/master/new_plots/flight_Air%20India_AI1446/Air%20India_AI1446_alt_prediction.png" height="375">
+<img src="https://github.com/tejas2510/PathFinderX/blob/master/new_plots/flight_Air%20India_AI1446/Air%20India_AI1446_lat_prediction.png" height="375">
 
 <img src="https://github.com/tejas2510/PathFinderX/blob/master/assets/Screenshot%20from%202024-11-29%2016-10-31.png?raw=true" width="600" height="375">
 
