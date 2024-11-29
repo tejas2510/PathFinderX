@@ -1,8 +1,8 @@
-# <p align="center">🛩️ PathFinderX 🌍</p>
+![image](https://github.com/user-attachments/assets/59601317-141b-424b-84e6-206248508e0c)# <p align="center">🛩️ PathFinderX 🌍</p>
 
 ## 🌎 Overview
 
-**PathFinderX** is a cutting-edge aircraft GPS prediction system that leverages machine learning to revolutionize aviation navigation. In scenarios of GPS outages, this innovative solution predicts aircraft coordinates with remarkable precision:
+**PathfinderX: Resilient GPS Prediction through Machine Learning** is a cutting-edge aircraft GPS prediction system, trained on historical data of over 50000+ rows of data that leverages machine learning to revolutionize aviation navigation. In scenarios of GPS outages, this innovative solution predicts aircraft coordinates with remarkable precision:
 
 - **Accuracy**: ~95% prediction reliability
 - **Altitude Precision**: ±500 feet
@@ -22,29 +22,18 @@ Designed to enhance aviation safety, PathFinderX offers a scalable and cost-effe
   - Robust predictive algorithms
 
 - **Future Roadmap**
-  - Ensemble model improvements
-  - Deep learning implementation
-  - Advanced predictive techniques
+  - Implement Ensemble model for overall improvements
+  - Dead Reckoning implementation to predict with a higher accuracy
+  - Deep learning implementation for a deeper understanding of the historical data relating to weather patterns and other latent features
 
 ## ❗ Prerequisites
 
-- Python 3.X
+- Python 3.X.X
 - Machine Learning Libraries
   - scikit-learn
   - pandas
   - numpy
 - Computational Environment (Jupyter/Google Colab recommended)
-
-## 📊 Performance Visualization
-
-### Prediction Accuracy Metrics
-![Accuracy Comparison](/path/to/accuracy_chart.png)
-
-### Model Performance Heatmap
-![Model Performance](/path/to/performance_heatmap.png)
-
-### Prediction Error Distribution
-![Error Distribution](/path/to/error_distribution.png)
 
 ## 🛠️ Installation
 
@@ -55,26 +44,32 @@ git clone https://github.com/tejas2510/PathFinderX.git
 # Install required dependencies
 pip install -r requirements.txt
 
-# Run the main script
-python pathfinderx.py
+# To create a dataset depending on your parameters
+# Run the dataset script after making changes
+python dataset.py
+
+# Now you can run all cells in PathFinderX.ipynb
 ```
 
 ## 🚀 Quick Start
 
-1. Prepare your flight data
-2. Configure model parameters
+1. Prepare your flight data - Set parameters like Departure, Arrival Airports, No of flights for training data etc.
+2. Configure model parameters - Outage Duration, Animation Duration, Model Hyperparameters.
 3. Run prediction script
 4. Analyze results
 
+## 📊 Performance Visualization
+<img src="" width="600" height="375">
+<img src="https://github.com/tejas2510/PathFinderX/blob/master/new_plots/flight_Air%20India_AI1446/Air%20India_AI1446_alt_prediction.png" width="600" height="375">
+<img src="https://github.com/tejas2510/PathFinderX/blob/master/new_plots/flight_Air%20India_AI1446/Air%20India_AI1446_lat_prediction.png" width="600" height="375">
+
+<img src="https://github.com/tejas2510/PathFinderX/blob/master/assets/Screenshot%20from%202024-11-29%2016-10-31.png?raw=true" width="600" height="375">
+
 ## 📈 Model Performance Screenshots
 
-<img src="/path/to/prediction_screenshot1.png" width="600" height="375">
-<img src="/path/to/prediction_screenshot2.png" width="600" height="375">
+
 
 ## 🌐 Deployment Options
-
-[![Run on Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/your-notebook-link)
-[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/tejas2510/PathFinderX)
 
 ## ✨ Contributors
 
@@ -87,9 +82,9 @@ Contributions are always welcome! Please check our [Contributing Guidelines](/CO
 ## 📧 Contact
 
 For more information, collaborations, or inquiries:
-- Email: [project_contact@example.com](mailto:project_contact@example.com)
+- Email: [project_contact@example.com](mailto:for.tejaspatil@gmail.com)
 - Project Link: [GitHub - PathFinderX](https://github.com/tejas2510/PathFinderX)
 
 ---
 
-Made with 💖 and Machine Learning! 🤖✈️
+Made with 💖 and Python! ✈️
