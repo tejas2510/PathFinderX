@@ -53,8 +53,8 @@ python dataset.py
 
 ## 🚀 Quick Start
 
-1. Prepare your flight data - Set parameters like Departure, Arrival Airports, No of flights for training data etc. - `dataset.py`
-2. Configure model parameters - Outage Duration, Animation Duration, Model Hyperparameters. - `PathFinderX.ipynb`
+1.  `dataset.py` - Prepare your flight data - Set parameters like Departure, Arrival Airports, No of flights for training data etc.
+2. `PathFinderX.ipynb` - Configure model parameters - Outage Duration, Animation Duration, Model Hyperparameters.
 3. Run prediction script
 4. Analyze results
 
