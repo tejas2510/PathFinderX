@@ -78,21 +78,8 @@ python dataset.py
 Contributions are always welcome! Please check our [Contributing Guidelines](/CONTRIBUTING.md)
 
 <a href="https://github.com/tejas2510/PathFinderX/graphs/contributors">
-<style>
-  .profile-pic {
-    width: 60px;
-    height: 60px;
-    border-radius: 50%;  /* Makes the image circular */
-    margin-right: 10px;  /* Adds space between the two images */
-    display: inline-block;  /* Ensures images are inline */
-  }
-</style>
-
-<img src="https://github.com/tejas2510.png" class="profile-pic" />
-<a href="https://github.com/tejas2510"></a>
-
-<img src="https://github.com/ShashankBhat-18.png" class="profile-pic" />
-<a href="https://github.com/ShashankBhat-18"></a>
+<a href="https://github.com/tejas2510"><img src="https://github.com/tejas2510.png" width="60" height="60" style="border-radius: 50%; margin-right: 10px;" /></a>
+<a href="https://github.com/ShashankBhat-18"><img src="https://github.com/ShashankBhat-18.png" width="60" height="60" style="border-radius: 50%;" /></a>
 </a>
 
 ## 📧 Contact
