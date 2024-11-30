@@ -78,7 +78,7 @@ python dataset.py
 Contributions are always welcome! Please check our [Contributing Guidelines](/CONTRIBUTING.md)
 
 <a href="https://github.com/tejas2510/PathFinderX/graphs/contributors">
-<img src="https://github.com/ShashankBhat-18.png" width="60px;"/><br /><sub><a href="https://github.com/ShashankBhat-18">ShashankBhat-18</a></sub>](https://github.com/ShashankBhat-18/PathFinderX)
+<img src="https://github.com/ShashankBhat-18.png" width="60px;"/><br /><sub><a href="https://github.com/ShashankBhat-18">/a></sub>
 </a>
 
 ## 📧 Contact
